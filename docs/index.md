@@ -9,6 +9,8 @@ Before reading this documentation, please have a decent understanding of Apoli c
 
 You can visit [CurseForge](https://www.curseforge.com/minecraft/mc-mods/die-your-way) or [Modrinth](https://modrinth.com/mod/die-your-way) to download the Die Your Way mod.
 
+Thank you Apace for making Calio and Apoli which this mod heavily utilises both.
+
 ## General Information
 * This entire documentation is always accurate to the latest version of Die Your Way.
 * Nearly every Apoli condition is included in Die Your Way without Apoli. The exceptions to this are `apoli:exposed_to_sun` and `apoli:in_rain` and any powers that involve Apoli's powers/actions.

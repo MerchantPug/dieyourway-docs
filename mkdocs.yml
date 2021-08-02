@@ -16,4 +16,14 @@ nav:
   - Miscellanous:
     - Commands: misc/commands.md
     - Vanilla Damage Sources: misc/vanilla_damage_sources.md 
-theme: readthedocs
+theme:
+    name: null
+    custom_dir: mkdocs_windmill_dark
+    # default from mkdocs_theme.yml
+    static_templates:
+        - 404.html
+    include_search_page: true
+    search_index_only: true
+    history_buttons: true
+    article_nav_top: true
+    article_nav_bottom: true
