@@ -25,5 +25,5 @@ theme:
     include_search_page: true
     search_index_only: true
     history_buttons: true
-    article_nav_top: true
-    article_nav_bottom: true
+    article_nav_top: false
+    article_nav_bottom: false
