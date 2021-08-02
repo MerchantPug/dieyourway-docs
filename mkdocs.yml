@@ -1,0 +1,15 @@
+site_name: Die Your Way Documentation
+nav:
+  - Home: index.md
+  - Conditions:
+    - Biome Conditions: biome_conditions.md
+    - Block Conditions: block_conditions.md
+    - Damage Conditions: damage_conditions.md
+    - Entity Conditions: entity_conditions.md
+    - Fluid Conditions: fluid_conditions.md
+    - Item Conditions: item_conditions.md
+    - Meta Conditions: meta_conditions.md
+  - Miscellanous:
+    - Commands: misc/commands.md
+    - Vanilla Damage Sources: misc/vanilla_damage_sources.md 
+theme: windmill-dark
