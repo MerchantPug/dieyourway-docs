@@ -415,7 +415,7 @@ text-overflow: ellipsis;
 }
 
 .search-text > b {
-color: #246924;
+color: #54D854;
 }
 
 .wm-search-page {
@@ -483,7 +483,7 @@ code {
   padding: 2px 5px;
   background: #31363F;
   border: none 1px black;
-  color: #246924;
+  color: #54D854;
   white-space: pre-wrap;
   word-wrap: break-word;
 }
