@@ -16,4 +16,4 @@ nav:
   - Miscellanous:
     - Commands: misc/commands.md
     - Vanilla Damage Sources: misc/vanilla_damage_sources.md 
-theme: windmill-dark
+theme: readthedocs
