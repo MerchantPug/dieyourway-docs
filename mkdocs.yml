@@ -1,6 +1,10 @@
 site_name: Die Your Way Documentation
 nav:
   - Home: index.md
+  - Types:
+    - Argument Types: argument_types.md
+    - Data Types: data_types.md
+    - DieYourWay JSON: dieyourway_json.md
   - Conditions:
     - Biome Conditions: biome_conditions.md
     - Block Conditions: block_conditions.md

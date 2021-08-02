@@ -1,9 +1,9 @@
 ---
-title: /origin (Command)
+title: /dieyourway (Command)
 date: 2021-07-13
 ---
 
-# `/origin`
+# `/dieyourway`
 
 The `/dieyourway` command can be used to test dieyourway files' messages. You can get a random message or you can get a message at a specific index.
 
