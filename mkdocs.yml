@@ -1,6 +1,9 @@
 site_name: Die Your Way Documentation
 nav:
   - Home: index.md
+  - Guides:
+    - Creating a Message File: guides/create_file.md
+    - Adding Arguments: guides/arguments.md
   - Types:
     - Argument Types: argument_types.md
     - Data Types: https://origins.readthedocs.io/en/latest/data_types/
