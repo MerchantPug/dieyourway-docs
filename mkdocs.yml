@@ -3,27 +3,19 @@ nav:
   - Home: index.md
   - Types:
     - Argument Types: argument_types.md
-    - Data Types: data_types.md
+    - Data Types: https://origins.readthedocs.io/en/latest/data_types/
     - DieYourWay JSON: dieyourway_json.md
   - Conditions:
-    - Biome Conditions: biome_conditions.md
-    - Block Conditions: block_conditions.md
-    - Damage Conditions: damage_conditions.md
+    - Bi-entity Conditions: https://origins.readthedocs.io/en/latest/bientity_conditions/
+    - Biome Conditions: https://origins.readthedocs.io/en/latest/biome_conditions/
+    - Block Conditions: https://origins.readthedocs.io/en/latest/block_conditions/
+    - Damage Conditions: https://origins.readthedocs.io/en/latest/damage_conditions/
     - Entity Conditions: entity_conditions.md
-    - Fluid Conditions: fluid_conditions.md
+    - Fluid Conditions: https://origins.readthedocs.io/en/latest/fluid_conditions/
     - Item Conditions: item_conditions.md
-    - Meta Conditions: meta_conditions.md
+    - Meta Conditions: https://origins.readthedocs.io/en/latest/meta_conditions/
   - Miscellanous:
     - Commands: misc/commands.md
-    - Vanilla Damage Sources: misc/vanilla_damage_sources.md 
-theme:
-    name: null
-    custom_dir: mkdocs_windmill_dark
-    # default from mkdocs_theme.yml
-    static_templates:
-        - 404.html
-    include_search_page: true
-    search_index_only: true
-    history_buttons: false
-    article_nav_top: false
-    article_nav_bottom: false
+    - Vanilla Damage Sources: https://origins.readthedocs.io/en/latest/misc/vanilla_damage_sources/
+theme: readthedocs
+separator: '_'

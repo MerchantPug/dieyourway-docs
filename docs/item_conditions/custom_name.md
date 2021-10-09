@@ -13,8 +13,7 @@ Type ID: `dieyourway:custom_name`
 ### Fields:
 Field  | Type | Default | Description
 -------|------|---------|-------------
-`name` | [String](../data_types/string.md) | | The name to check for on the itemstack. This ignores any other NBT and only goes for the name.
-
+`name` | [String](https://origins.readthedocs.io/en/latest/data_types/string/) | | The name to check for on the itemstack. This ignores any other NBT and only goes for the name.
 
 ### Example:
 ```json

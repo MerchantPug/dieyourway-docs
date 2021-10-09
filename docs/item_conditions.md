@@ -6,11 +6,8 @@ date: 2021-08-02
 
 Item Conditions operate on an `ItemStack`.
 
-## Apoli
+## [Apoli](https://origins.readthedocs.io/en/latest/item_conditions/)
 
-* [Armor Value](armor_value)
-* [Enchantment](enchantment)
-* [Food](food)
-* [Harvest Level](harvest_level)
-* [Ingredient](ingredient)
-* [Meat](meat)
+## DieYourWay
+* [Custom Name](custom_name)
+* [Has Name](has_name)

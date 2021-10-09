@@ -6,7 +6,7 @@ date: date: 2021-08-02
 
 [Argument Type](../argument_types.md).
 
-Outputs the item the attacker used to kill the entity. This results in `{\"text:\":\"[ItemStack]\"}` if there is no attacker. If the attacking entity isn't a living entity it results in `{\"text:\":\"[Air]\"}`
+Outputs the item the attacker used to kill the entity. This results in `{\"text:\":\"[ItemStack]\"}` if there is no attacker. If the attacking entity isn't a LivingEntity it results in `{\"text:\":\"[Air]\"}`
 
 Type ID: `dieyourway:attacker_item`
 
