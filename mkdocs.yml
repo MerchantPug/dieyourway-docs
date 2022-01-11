@@ -9,14 +9,14 @@ nav:
     - Data Types: https://origins.readthedocs.io/en/latest/data_types/
     - DieYourWay JSON: dieyourway_json.md
   - Conditions:
-    - Bi-entity Conditions: https://origins.readthedocs.io/en/latest/bientity_conditions/
-    - Biome Conditions: https://origins.readthedocs.io/en/latest/biome_conditions/
-    - Block Conditions: https://origins.readthedocs.io/en/latest/block_conditions/
-    - Damage Conditions: https://origins.readthedocs.io/en/latest/damage_conditions/
+    - Bi-entity Conditions: https://origins.readthedocs.io/en/latest/types/bientity_condition_types/
+    - Biome Conditions: https://origins.readthedocs.io/en/latest/types/biome_condition_types/
+    - Block Conditions: https://origins.readthedocs.io/en/latest/types/block_condition_types/
+    - Damage Conditions: https://origins.readthedocs.io/en/latest/types/damage_condition_types/
     - Entity Conditions: entity_conditions.md
-    - Fluid Conditions: https://origins.readthedocs.io/en/latest/fluid_conditions/
+    - Fluid Conditions: https://origins.readthedocs.io/en/latest/types/fluid_condition_types/
     - Item Conditions: item_conditions.md
-    - Meta Conditions: https://origins.readthedocs.io/en/latest/meta_conditions/
+    - Meta Conditions: https://origins.readthedocs.io/en/latest/types/meta_condition_types/
   - Miscellanous:
     - Commands: misc/commands.md
     - Vanilla Damage Sources: https://origins.readthedocs.io/en/latest/misc/vanilla_damage_sources/

@@ -61,4 +61,4 @@ This example will replace any instance of `%1$s` with a text component relating 
 This concludes this tutorial, hopefully this explains how arguments are used within the mod.
 
 ### Related Pages
-[Argument Types](../argument_types.md)
+- [Argument Types](../argument_types.md)

@@ -6,7 +6,7 @@ date: 2021-08-02
 
 Item Conditions operate on an `ItemStack`.
 
-## [Apoli](https://origins.readthedocs.io/en/latest/item_conditions/)
+## [Apoli](https://origins.readthedocs.io/en/latest/types/item_condition_types/)
 
 ## DieYourWay
 * [Custom Name](custom_name)

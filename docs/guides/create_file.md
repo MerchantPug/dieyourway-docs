@@ -39,9 +39,9 @@ When this file's conditions are met on death the mod now has a chance to select 
 This specific tutorial is now concluded. If you'd like to understand more about DieYourWay's systems, your next step would be [Arguments](arguments.md)
 
 ### Related Pages
-[DieYourWay JSON Format](../dieyourway_json.md)
-[Damage Conditions (Origins Wiki)](https://origins.readthedocs.io/en/latest/damage_conditions/)
-[Bi-entity Conditions (Origins Wiki)](https://origins.readthedocs.io/en/latest/bientity_conditions/)
-[Entity Conditions](../entity_conditions.md)
-[Raw JSON Text Format (Minecraft Wiki)](https://minecraft.fandom.com/wiki/Raw_JSON_text_format)
-[Raw JSON Text Format Generator](https://www.minecraftjson.com/)
+- [DieYourWay JSON Format](../dieyourway_json.md)
+- [Damage Conditions (Origins Wiki)](https://origins.readthedocs.io/en/latest/damage_conditions/)
+- [Bi-entity Conditions (Origins Wiki)](https://origins.readthedocs.io/en/latest/bientity_conditions/)
+- [Entity Conditions](../entity_conditions.md)
+- [Raw JSON Text Format (Minecraft Wiki)](https://minecraft.fandom.com/wiki/Raw_JSON_text_format)
+- [Raw JSON Text Format Generator](https://www.minecraftjson.com/)
