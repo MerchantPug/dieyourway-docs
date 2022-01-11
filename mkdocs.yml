@@ -6,7 +6,7 @@ nav:
     - Adding Arguments: guides/arguments.md
   - Types:
     - Argument Types: argument_types.md
-    - Data Types: https://origins.readthedocs.io/en/latest/data_types/
+    - Data Types: https://origins.readthedocs.io/en/latest/types/data_types/
     - DieYourWay JSON: dieyourway_json.md
   - Conditions:
     - Bi-entity Conditions: https://origins.readthedocs.io/en/latest/types/bientity_condition_types/
@@ -19,6 +19,6 @@ nav:
     - Meta Conditions: https://origins.readthedocs.io/en/latest/types/meta_condition_types/
   - Miscellanous:
     - Commands: misc/commands.md
-    - Vanilla Damage Sources: https://origins.readthedocs.io/en/latest/misc/vanilla_damage_sources/
+    - Vanilla Damage Sources: https://origins.readthedocs.io/en/latest/misc/extras/damage_source_names/
 theme: readthedocs
 separator: '_'
