@@ -1,4 +1,5 @@
 site_name: DieYourWay Documentation
+site_url: https://dieyourway.readthedocs.io
 nav:
   - Home: index.md
   - Guides:
@@ -20,5 +21,42 @@ nav:
   - Miscellanous:
     - Commands: misc/commands.md
     - Vanilla Damage Sources: https://origins.readthedocs.io/en/latest/misc/extras/damage_source_names/
-theme: readthedocs
-separator: '_'
+theme:
+  name: material
+  features:
+    - content.code.annotate
+    - navigation.expand
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: green
+      accent: light-green
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode  
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: green
+      accent: light-green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode  
+  logo: images/logo.png
+  favicon: images/logo.png
+extra:
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/MerchantPug/apugli
+        name: Apugli GitHub
+      - icon: fontawesome/brands/discord
+        link: https://discord.gg/UBfEjsANNz
+        name: Pug's Modzone Discord
+markdown_extensions:
+    - toc:
+        separator: "_"
+    - pymdownx.highlight:
+        anchor_linenums: true
+    - admonition
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
