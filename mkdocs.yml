@@ -36,8 +36,8 @@ theme:
         name: Switch to dark mode  
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
-      primary: green
-      accent: light-green
+      primary: indigo
+      accent: light blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode  
@@ -46,8 +46,8 @@ theme:
 extra:
     social:
       - icon: fontawesome/brands/github
-        link: https://github.com/MerchantPug/apugli
-        name: Apugli GitHub
+        link: https://github.com/MerchantPug/die-your-way
+        name: DieYourWay GitHub
       - icon: fontawesome/brands/discord
         link: https://discord.gg/UBfEjsANNz
         name: Pug's Modzone Discord
