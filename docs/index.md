@@ -12,8 +12,7 @@ You can visit [CurseForge](https://www.curseforge.com/minecraft/mc-mods/die-your
 Thank you Apace for making Calio and Apoli of which this mod heavily utilises both.
 
 ## General Information
-* This entire documentation is accurate to version 1.2.1 of DieYourWay.
-* Nearly every Apoli condition is included in DieYourWay without Apoli. The exceptions to this is anything that involve Apoli's powers/actions.
+* Nearly every Apoli condition is included in DieYourWay without Apoli. The exceptions to this is anything that involve Apoli's powers/actions or PlayerAbilityLib.
 
 ## Helpful Resources
 - [Origins/Apoli Documentation](https://origins.readthedocs.io/en/latest/)

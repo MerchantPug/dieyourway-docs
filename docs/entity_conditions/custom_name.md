@@ -14,6 +14,7 @@ Type ID: `dieyourway:has_name`
 Field  | Type | Default | Description
 -------|------|---------|-------------
 `name` | [String](https://origins.readthedocs.io/en/latest/data_types/string/) | | The name to check for on the entity. This ignores any other NBT and only goes for the name.
+`case_sensitive` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | `true` | Whether the check is case sensitive (capitalisation matters).
 
 ### Example:
 ```json
