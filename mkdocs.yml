@@ -29,15 +29,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
-      primary: green
-      accent: light-green
+      primary: indigo
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode  
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
       primary: indigo
-      accent: light blue
+      accent: cyan
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode  
